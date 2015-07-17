@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/osacript -e "display notification \"$*\" sound name "Basso"
